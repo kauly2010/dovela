@@ -63,9 +63,9 @@ set_xmr(){
     x_port=10567
     x_currency=monero7
     x_address=pool.supportxmr.com:3333
-    x_username=49EJKgLMGCSFTEx5R7MTUPdhCrY8CjCiPMgLfRWcjh7eYf92f4FQ9PyCKDfBKNJ2EASBF9GB3yYeBKnVm4rGXhwG8ahAWdS
+    x_username=35E9t8Pc5tmTpKNSaQjmyBTraaU147uRzE
     stty erase '^H' && read -p " 矿机名称 Rig_ID (例: do1 ):" x_id
-    x_passwd=${x_id}:1826610301@qq.com
+    x_passwd=${x_id}:kaka2020@%#KAULY
     x_tls=n
     x_nicehash=n
     x_multiple=n
